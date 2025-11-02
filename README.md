@@ -1,9 +1,9 @@
 ## 🧠 Technical Skills
-**Frontend:** Angular, React, TailwindCSS, Material UI (React)  
-**Backend:** Node.js  
-**Databases:** PostgreSQL, Firebase Realtime Database  
-**Tools:** Git (version control), Jira (testing & issue tracking)  
-**Other Programming Languages:** Python, C, C++, Rust
+- **Frontend:** Angular, React, TailwindCSS, Material UI (React)
+- **Backend:** Node.js
+- **Databases:** PostgreSQL, Firebase Realtime Database
+- **Tools:** Git (version control), Jira (testing & issue tracking)
+- **Other Programming Languages:** Python, C, C++, Rust
 ---
 ## 💼 Experience
 ### **Web Apps (Independent Projects)**
