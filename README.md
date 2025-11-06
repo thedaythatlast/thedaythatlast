@@ -22,4 +22,4 @@
 - **English:** Good communication skills  
 - **Japanese:** Able to read technical documents  
 ---
-For business inquiry, contact me through the email.
+For business inquiry, contact me through the email: dkn.010101 @ gmail (dot) com
